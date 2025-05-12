@@ -23,3 +23,9 @@ header p {
     font: var(--text-heading3);
     color: var(--text-primary);
 }
+
+.info label{
+    font: var(--text-heading4);
+    color: var(--text-secondary);
+}
+
