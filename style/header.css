@@ -1,0 +1,25 @@
+/* header{
+
+} */
+
+header h1 {
+    font: var(--text-heading1);
+    color: var(--text-primary);
+}
+
+header p {
+    font: var(--text-heading4);
+    color: var(--text-secondary);
+}
+
+.inicio{
+    display: flex;
+    align-items: center;
+    font: var(--text-heading4);
+    color: var(--text-secondary);
+}
+
+.info{
+    font: var(--text-heading3);
+    color: var(--text-primary);
+}
